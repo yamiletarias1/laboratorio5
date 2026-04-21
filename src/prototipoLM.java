@@ -6,7 +6,6 @@ public class prototipoLM extends cocheDeCarrera {
         super(marca, modelo, velocidadMaxima);
         this.sistemaHibrido = sistemaHibrido;
     }
-
     @Override
     public void competir() {
         if (sistemaHibrido) {

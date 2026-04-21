@@ -1,5 +1,4 @@
 public class granTurismo {
-
     public class GranTurismo extends cocheDeCarrera{
 
         private int pesoExtraLastre;

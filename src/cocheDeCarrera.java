@@ -39,6 +39,5 @@ public abstract class cocheDeCarrera {
         System.out.println("Modelo: " + modelo);
         System.out.println("Velocidad Maxima: " + velocidadMaxima);
     }
-
     public abstract void competir();
 }
